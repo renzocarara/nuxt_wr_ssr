@@ -23,8 +23,8 @@
                             href="https://nuxtjs.org/"
                             target="_blank"
                             rel="noopener noreferrer"
-                            >Nuxt.js. L'applicazione utilizza la modalità SSR (Server Side Rendering).
-                        </a>
+                            >Nuxt.js
+                        </a>. L'applicazione utilizza la modalità SSR (Server Side Rendering).
                     </p>
                     <h4>FUNZIONAMENTO</h4>
                     <p>
