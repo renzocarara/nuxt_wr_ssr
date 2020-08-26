@@ -1,4 +1,4 @@
-# nuxt_wr
+# nuxt_wr_ssr
 
 ## Build Setup
 
@@ -13,8 +13,6 @@ $ npm run dev
 $ npm run build
 $ npm run start
 
-# generate static project
-$ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
