@@ -1,3 +1,5 @@
+in package.json aggiungere la seguente linea sotto "scripts":
+ "heroku-postbuild": "npm run build"
 
 heroku config:set HOST=0.0.0.0 -a morgana-ssr
 heroku config:set NODE_ENV=production -a morgana-ssr

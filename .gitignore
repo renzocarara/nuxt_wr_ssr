@@ -94,3 +94,6 @@ owm_api_key.txt
 
 #temporary folder
 /temp
+
+#istruzioni per deploy su Heroku
+README.TXT
