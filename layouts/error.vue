@@ -12,7 +12,7 @@
                 <v-card-text>
                     <h1 v-if="error.statusCode === 404" class="text-center">
                         <img
-                            style="max-width: 100%;"
+                            style="max-width: 100%"
                             class=""
                             src="@/assets/images/error404.png"
                             alt="computer 404 img"
@@ -25,9 +25,7 @@
                 <hr class="my-3" />
                 <v-card-actions>
                     <v-spacer />
-                    <v-btn dark color="red accent-4" nuxt to="/">
-                        Home
-                    </v-btn>
+                    <v-btn dark color="red accent-4" nuxt to="/"> Home </v-btn>
                     <v-btn dark color="red accent-4" nuxt to="/search">
                         Ricerca
                     </v-btn>

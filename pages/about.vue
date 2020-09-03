@@ -23,8 +23,9 @@
                             href="https://nuxtjs.org/"
                             target="_blank"
                             rel="noopener noreferrer"
-                            >Nuxt.js
-                        </a>. L'applicazione utilizza la modalità SSR (Server Side Rendering).
+                            >Nuxt.js</a
+                        >. L'applicazione utilizza la modalità SSR (Server Side
+                        Rendering).
                     </p>
                     <h4>FUNZIONAMENTO</h4>
                     <p>
@@ -137,9 +138,7 @@
                 <hr class="my-3" />
                 <v-card-actions>
                     <v-spacer />
-                    <v-btn dark color="red accent-4" nuxt to="/">
-                        Home
-                    </v-btn>
+                    <v-btn dark color="red accent-4" nuxt to="/"> Home </v-btn>
                     <v-btn dark color="red accent-4" nuxt to="/search">
                         Ricerca
                     </v-btn>
